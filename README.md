@@ -11,5 +11,5 @@ A 3 by 3 macropad keyboard layout with a rotary volume knob and a small OLED dis
 
 > **Note:** WTH everything may need to be replaced except for the knob I hope I may also use prototype pcb instead of a proffesional if I am unable to get the funds
 
-[schematic]: image-1.png
-[pcb]: image.png
+[schematic]: Images/schematic.png
+[pcb]: Images/PCB-design-RP2040.png
