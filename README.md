@@ -4,7 +4,7 @@ A 3 by 3 macropad keyboard layout with a rotary volume knob and a small OLED dis
 ![The Schematic][schematic]
 ## PCB-Design
 ![A 3 by 3 macropad keyboard layout with a rotary volume knob and a small OLED display mounted on a custom PCB.][pcb] 
-> ⚠️ Future consideration: 
+### ⚠️ Future consideration: 
 - May need to change the Micro Controller to an ESP32 Dev kit
 - May need to replace the OLED to the 0.6' 128 by 64 version
 - May also need to change the keys
